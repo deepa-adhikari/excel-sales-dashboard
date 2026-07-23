@@ -18,7 +18,7 @@ This project showcases an interactive Sales Performance Dashboard built in Micro
 - VBA
 
 ## Dashboard Preview
-(Add screenshots here)
+![Sales Performance Dashboard](dashboard.png)
 
 ## Skills Demonstrated
 - Data Cleaning
