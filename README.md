@@ -26,3 +26,12 @@ This project showcases an interactive Sales Performance Dashboard built in Micro
 - Dashboard Design
 - Data Visualization
 - Excel Automation
+
+## 👤 Author
+
+**Deepa Kumari Adhikari**
+
+Aspiring Finance and Tax Analyst passionate about using Excel, SQL, and Power BI to solve business problems through data analysis.
+
+Connect with me:
+- LinkedIn: [Deepa Kumari Adhikari](www.linkedin.com/in/deepa-kumari-adhikari-inspiria)
